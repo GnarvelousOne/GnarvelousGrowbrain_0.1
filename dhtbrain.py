@@ -49,6 +49,7 @@ import time
 import datetime
 from dht import dhtRun
 from quickstart import dhtUpload
+from quickstart2 import dhtUpload2
 '''
 # Define GPIO to LCD mapping
 LCD_RS = 7
@@ -96,7 +97,7 @@ def main():
     dhtRun()
     
     # Upload the newest version to Google Drive
-    #dhtUpload()
+    dhtUpload()
     
 '''    
 def lcd_init():
