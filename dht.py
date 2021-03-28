@@ -160,18 +160,22 @@ def dhtRun():
     row = [[str(timeNow.strftime('%m/%d %H:%M')), displaytemp_f, displayhum]]
 
     for data in row:
-        ws.append(data)
+        if displaytemp_f == 0:
+            pass
+        else:
+            ws.append(data)
 
 
     wb.save('dhtdata.xlsx')
-
-
+    '''
+    # Use this if you have a 2004 LCD for display:
     mylcd = I2C_LCD_driver.lcd()
     mylcd.lcd_display_string(str(timeNow.strftime('%b %d at %H:%M')), 1)
     mylcd.lcd_display_string("{:.1f} F / {}% rH".format(
             displaytemp_f, displayhum), 2)
     mylcd.lcd_display_string("Script: /dhtbrain.py", 3)
     mylcd.lcd_display_string("Data: dhtdata.xlsx", 4)
+    '''
 
     time.sleep(2.0)
     dhtDevice.exit()
