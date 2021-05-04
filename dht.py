@@ -11,9 +11,10 @@ def dhtRun():
     import board
     import adafruit_dht
     import RPi.GPIO as GPIO
+    from alert import alert_high_temp_send, alert_low_temp_send, alert_high_hum_send
 
     timeNow = datetime.datetime.now()
-
+    
     
     # Initial the dht device, with data pin connected to:
 
@@ -143,7 +144,17 @@ def dhtRun():
     if type(displayhum) == int or type(displayhum) == float:
         displayhum = round(displayhum)
         
-    #config.configtemp_f == displaytemp_f
+    # set the high and low temp and hum alerts to trigger sending an email alert:
+    hightemp = 73
+    lowtemp = 45
+    highhum = 75
+    
+    if displaytemp_f == hightemp or displaytemp_f > hightemp:
+        alert_high_temp_send()
+    if displaytemp_f == lowtemp or displaytemp_f < lowtemp:
+        alert_low_temp_send()
+    if displayhum == highhum or displayhum > highhum:
+        alert_high_hum_send()
 
     print(
         "DHT reading on " + str(timeNow.strftime('%A %m/%d %H:%M %p')) + ": "+"Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(

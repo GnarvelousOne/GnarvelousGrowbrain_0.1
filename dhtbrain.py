@@ -85,8 +85,8 @@ def main():
     GPIO.setup(LCD_D6, GPIO.OUT) # DB6
     GPIO.setup(LCD_D7, GPIO.OUT) # DB7
     '''
-    GPIO.setup(14, GPIO.OUT)     # for the relay
-    GPIO.output(14, False)       # starts relay in off mode
+    #GPIO.setup(14, GPIO.OUT)     # for a relay
+    #GPIO.output(14, False)       # starts relay in off mode
 
 
     # Initialise display
