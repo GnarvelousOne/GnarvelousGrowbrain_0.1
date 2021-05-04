@@ -208,7 +208,9 @@ def gettemp():
     blob == dhtRun.displaytemp_f
     return blob
     
-    '''    
+    '''
+    #Uncomment all below if using LCD for a display:
+        
     # Define GPIO to LCD mapping
     LCD_RS = 7
     LCD_E  = 8

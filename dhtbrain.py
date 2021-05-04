@@ -1,27 +1,12 @@
 #!/usr/bin/python
 
 # Credit for the LCD interfacing goes to :
-#
 #  lcd_16x2.py
 #  16x2 LCD Test Script
 # Author : Matt Hawkins
 # Date   : 06/04/2015
 # http://www.raspberrypi-spy.co.uk/
 # Copyright 2015 Matt Hawkins
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#
-#--------------------------------------
 
 # The wiring for the LCD is as follows:
 # 1 : GND
@@ -44,12 +29,12 @@
 import config
 import RPi.GPIO as GPIO
 import time
-#import requests
-#import json
 import datetime
 from dht import dhtRun
 from quickstart import dhtUpload
+
 '''
+Uncomment if using LCD display:
 # Define GPIO to LCD mapping
 LCD_RS = 7
 LCD_E  = 8
@@ -78,6 +63,7 @@ def main():
     GPIO.setwarnings(False)
     GPIO.setmode(GPIO.BCM)       # Use BCM GPIO numbers
     '''
+    #uncomment if using LCD display:
     GPIO.setup(LCD_E, GPIO.OUT)  # E
     GPIO.setup(LCD_RS, GPIO.OUT) # RS
     GPIO.setup(LCD_D4, GPIO.OUT) # DB4
@@ -85,9 +71,6 @@ def main():
     GPIO.setup(LCD_D6, GPIO.OUT) # DB6
     GPIO.setup(LCD_D7, GPIO.OUT) # DB7
     '''
-    #GPIO.setup(14, GPIO.OUT)     # for a relay
-    #GPIO.output(14, False)       # starts relay in off mode
-
 
     # Initialise display
     #lcd_init()
