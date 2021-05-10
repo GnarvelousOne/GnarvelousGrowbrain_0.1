@@ -1,0 +1,2326 @@
+
+Forecast taken on Apr 10 at 21:37:
+
+Saturday 04/10
+Max temp: 63.84
+Min temp: 55.83
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 55.83
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.02
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 21:45:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 55.71
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 55.71
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.02
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+DHT reading on Saturday 04/10 22:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 10 at 22:06:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:14:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:16:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:17:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:18:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:21:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.57
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+
+Forecast taken on Apr 10 at 22:22:
+
+Saturday 04/10
+Max temp: 63.55
+Min temp: 56.01
+Morning temp: 59.2
+Day temp: 62.08
+Evening temp: 61.77
+Night temp: 58.24
+Humidity: 92
+Windspeed: 15.3
+
+Sunday 04/11
+Max temp: 54.43
+Min temp: 48.15
+Morning temp: 49.26
+Day temp: 48.97
+Evening temp: 53.69
+Night temp: 50.25
+Humidity: 85
+Windspeed: 14.23
+
+Monday 04/12
+Max temp: 68.23
+Min temp: 44.47
+Morning temp: 44.47
+Day temp: 65.55
+Evening temp: 60.94
+Night temp: 49.93
+Humidity: 50
+Windspeed: 11.41
+
+Tuesday 04/13
+Max temp: 60.89
+Min temp: 42.33
+Morning temp: 42.33
+Day temp: 59.9
+Evening temp: 52.47
+Night temp: 47.19
+Humidity: 40
+Windspeed: 13.33
+
+Wednesday 04/14
+Max temp: 55.17
+Min temp: 40.82
+Morning temp: 40.82
+Day temp: 55.17
+Evening temp: 49.41
+Night temp: 46.96
+Humidity: 49
+Windspeed: 10.13
+
+Thursday 04/15
+Max temp: 56.88
+Min temp: 37.83
+Morning temp: 39.07
+Day temp: 56.88
+Evening temp: 51.71
+Night temp: 49.59
+Humidity: 52
+Windspeed: 8.68
+
+Friday 04/16
+Max temp: 59.23
+Min temp: 40.33
+Morning temp: 41.36
+Day temp: 59.23
+Evening temp: 54.07
+Night temp: 51.64
+Humidity: 52
+Windspeed: 7.36
+
+Saturday 04/17
+Max temp: 55.4
+Min temp: 46.87
+Morning temp: 48.72
+Day temp: 55.4
+Evening temp: 50.14
+Night temp: 46.87
+Humidity: 75
+Windspeed: 2.44
+
+Saturday 04/10--- HUMIDITY ALERT ---92
+Sunday 04/11--- HUMIDITY ALERT ---85
+Monday 04/12--- LOW TEMP ALERT ---44.47
+Tuesday 04/13--- LOW TEMP ALERT ---42.33
+Wednesday 04/14--- LOW TEMP ALERT ---40.82
+Thursday 04/15--- LOW TEMP ALERT ---37.83
+Friday 04/16--- LOW TEMP ALERT ---40.33
+Saturday 04/17--- HUMIDITY ALERT ---75
+
+
+DHT reading on Saturday 04/10 23:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 04/11 00:00 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 04/11 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 02:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 06:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+
+Forecast taken on Apr 11 at 06:03:
+
+Sunday 04/11
+Max temp: 53.33
+Min temp: 48.51
+Morning temp: 51.57
+Day temp: 50.36
+Evening temp: 52.45
+Night temp: 49.57
+Humidity: 80
+Windspeed: 14.54
+
+Monday 04/12
+Max temp: 65.93
+Min temp: 43.86
+Morning temp: 43.86
+Day temp: 63.07
+Evening temp: 61.83
+Night temp: 50.65
+Humidity: 52
+Windspeed: 12.91
+
+Tuesday 04/13
+Max temp: 63.59
+Min temp: 43.05
+Morning temp: 43.05
+Day temp: 60.89
+Evening temp: 59.59
+Night temp: 51.87
+Humidity: 41
+Windspeed: 6.64
+
+Wednesday 04/14
+Max temp: 58.64
+Min temp: 41.61
+Morning temp: 48.6
+Day temp: 58.64
+Evening temp: 49.1
+Night temp: 41.61
+Humidity: 47
+Windspeed: 11.32
+
+Thursday 04/15
+Max temp: 56.84
+Min temp: 36.45
+Morning temp: 37.62
+Day temp: 55.24
+Evening temp: 50.97
+Night temp: 44.26
+Humidity: 52
+Windspeed: 9.42
+
+Friday 04/16
+Max temp: 58.8
+Min temp: 39.94
+Morning temp: 41.65
+Day temp: 58.44
+Evening temp: 53.71
+Night temp: 51.62
+Humidity: 54
+Windspeed: 4.7
+
+Saturday 04/17
+Max temp: 57.85
+Min temp: 48.52
+Morning temp: 50.14
+Day temp: 57.85
+Evening temp: 51.73
+Night temp: 48.52
+Humidity: 57
+Windspeed: 4.59
+
+Sunday 04/18
+Max temp: 62.24
+Min temp: 43.39
+Morning temp: 44.49
+Day temp: 62.24
+Evening temp: 54.18
+Night temp: 50.16
+Humidity: 46
+Windspeed: 4.79
+
+Sunday 04/11--- HUMIDITY ALERT ---80
+Monday 04/12--- LOW TEMP ALERT ---43.86
+Tuesday 04/13--- LOW TEMP ALERT ---43.05
+Wednesday 04/14--- LOW TEMP ALERT ---41.61
+Thursday 04/15--- LOW TEMP ALERT ---36.45
+Friday 04/16--- LOW TEMP ALERT ---39.94
+Sunday 04/18--- LOW TEMP ALERT ---43.39
+
+
+DHT reading on Sunday 04/11 07:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 08:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 09:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 10:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 11:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 12:00 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 13:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 14:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 15:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 16:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 17:00 PM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 04/11 18:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 04/11 19:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 20:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 21:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 04/11 22:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 00:00 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 01:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 02:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 04:00 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 05:00 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 06:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 12 at 06:03:
+
+Monday 04/12
+Max temp: 66.9
+Min temp: 44.92
+Morning temp: 45.16
+Day temp: 63.88
+Evening temp: 63.3
+Night temp: 53.51
+Humidity: 57
+Windspeed: 11.05
+
+Tuesday 04/13
+Max temp: 60.78
+Min temp: 47.1
+Morning temp: 47.8
+Day temp: 54.86
+Evening temp: 58.98
+Night temp: 50.09
+Humidity: 60
+Windspeed: 3.53
+
+Wednesday 04/14
+Max temp: 62.67
+Min temp: 44.82
+Morning temp: 46.18
+Day temp: 60.03
+Evening temp: 56.93
+Night temp: 44.82
+Humidity: 47
+Windspeed: 8.37
+
+Thursday 04/15
+Max temp: 54.9
+Min temp: 35.76
+Morning temp: 36.09
+Day temp: 54.9
+Evening temp: 49.23
+Night temp: 42.06
+Humidity: 50
+Windspeed: 12.12
+
+Friday 04/16
+Max temp: 56.05
+Min temp: 39.56
+Morning temp: 43.48
+Day temp: 55.02
+Evening temp: 52.2
+Night temp: 48.07
+Humidity: 55
+Windspeed: 6.76
+
+Saturday 04/17
+Max temp: 54.45
+Min temp: 40.91
+Morning temp: 42.8
+Day temp: 54.45
+Evening temp: 50.38
+Night temp: 46.65
+Humidity: 60
+Windspeed: 5.5
+
+Sunday 04/18
+Max temp: 57.42
+Min temp: 44.38
+Morning temp: 46.42
+Day temp: 57.42
+Evening temp: 50.85
+Night temp: 45.91
+Humidity: 62
+Windspeed: 5.84
+
+Monday 04/19
+Max temp: 59.56
+Min temp: 40.64
+Morning temp: 42.62
+Day temp: 57.15
+Evening temp: 52.97
+Night temp: 47.03
+Humidity: 45
+Windspeed: 10.65
+
+Monday 04/12--- LOW TEMP ALERT ---44.92
+Wednesday 04/14--- LOW TEMP ALERT ---44.82
+Thursday 04/15--- LOW TEMP ALERT ---35.76
+Friday 04/16--- LOW TEMP ALERT ---39.56
+Saturday 04/17--- LOW TEMP ALERT ---40.91
+Sunday 04/18--- LOW TEMP ALERT ---44.38
+Sunday 04/18--- HUMIDITY ALERT ---62
+Monday 04/19--- LOW TEMP ALERT ---40.64
+
+
+DHT reading on Monday 04/12 07:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 08:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 09:00 AM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 10:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 11:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 12:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 13:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 14:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 15:00 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 16:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 17:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 18:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 19:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 20:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 21:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Monday 04/12 22:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 32% 
+DHT reading on Monday 04/12 23:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 00:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 02:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 06:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 13 at 06:03:
+
+Tuesday 04/13
+Max temp: 57.92
+Min temp: 48.88
+Morning temp: 51.78
+Day temp: 49.64
+Evening temp: 55.24
+Night temp: 51.22
+Humidity: 85
+Windspeed: 1.81
+
+Wednesday 04/14
+Max temp: 62.04
+Min temp: 48.24
+Morning temp: 48.31
+Day temp: 59.7
+Evening temp: 58.86
+Night temp: 49.3
+Humidity: 49
+Windspeed: 5.12
+
+Thursday 04/15
+Max temp: 57.49
+Min temp: 37.58
+Morning temp: 37.58
+Day temp: 52.77
+Evening temp: 55.15
+Night temp: 47.95
+Humidity: 50
+Windspeed: 10.27
+
+Friday 04/16
+Max temp: 59.95
+Min temp: 40.57
+Morning temp: 42.82
+Day temp: 58.06
+Evening temp: 52.79
+Night temp: 47.62
+Humidity: 50
+Windspeed: 3.62
+
+Saturday 04/17
+Max temp: 49.44
+Min temp: 44.19
+Morning temp: 44.31
+Day temp: 46.76
+Evening temp: 46.35
+Night temp: 45.91
+Humidity: 94
+Windspeed: 10.16
+
+Sunday 04/18
+Max temp: 53.2
+Min temp: 43.56
+Morning temp: 45.59
+Day temp: 52.56
+Evening temp: 48.36
+Night temp: 43.56
+Humidity: 79
+Windspeed: 7.05
+
+Monday 04/19
+Max temp: 58.75
+Min temp: 39.69
+Morning temp: 42.39
+Day temp: 58.75
+Evening temp: 52.63
+Night temp: 49.86
+Humidity: 57
+Windspeed: 3.62
+
+Tuesday 04/20
+Max temp: 54.1
+Min temp: 44.38
+Morning temp: 47.1
+Day temp: 54.1
+Evening temp: 49.17
+Night temp: 44.38
+Humidity: 66
+Windspeed: 15.77
+
+Tuesday 04/13--- HUMIDITY ALERT ---85
+Thursday 04/15--- LOW TEMP ALERT ---37.58
+Friday 04/16--- LOW TEMP ALERT ---40.57
+Saturday 04/17--- LOW TEMP ALERT ---44.19
+Saturday 04/17--- HUMIDITY ALERT ---94
+Sunday 04/18--- LOW TEMP ALERT ---43.56
+Sunday 04/18--- HUMIDITY ALERT ---79
+Monday 04/19--- LOW TEMP ALERT ---39.69
+Tuesday 04/20--- LOW TEMP ALERT ---44.38
+Tuesday 04/20--- HUMIDITY ALERT ---66
+
+
+DHT reading on Tuesday 04/13 07:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 08:00 AM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 09:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 10:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 11:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 12:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 14:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 15:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 16:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 04/13 17:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 18:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 19:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 20:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 21:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 22:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 04/13 23:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 04/14 00:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 04/14 01:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 04/14 02:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 04/14 03:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 04/14 04:00 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 06:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 14 at 06:03:
+
+Wednesday 04/14
+Max temp: 55.06
+Min temp: 46.85
+Morning temp: 52.14
+Day temp: 48.78
+Evening temp: 54.37
+Night temp: 46.85
+Humidity: 89
+Windspeed: 4.74
+
+Thursday 04/15
+Max temp: 55.74
+Min temp: 39.13
+Morning temp: 39.13
+Day temp: 52.07
+Evening temp: 52.09
+Night temp: 42.19
+Humidity: 49
+Windspeed: 10.02
+
+Friday 04/16
+Max temp: 59.59
+Min temp: 37.89
+Morning temp: 37.89
+Day temp: 55.29
+Evening temp: 56.39
+Night temp: 46.04
+Humidity: 52
+Windspeed: 5.08
+
+Saturday 04/17
+Max temp: 46.49
+Min temp: 43.5
+Morning temp: 43.5
+Day temp: 46.08
+Evening temp: 44.96
+Night temp: 44.19
+Humidity: 94
+Windspeed: 6.71
+
+Sunday 04/18
+Max temp: 56.66
+Min temp: 44.11
+Morning temp: 45.01
+Day temp: 54.34
+Evening temp: 51.51
+Night temp: 47.55
+Humidity: 68
+Windspeed: 7.63
+
+Monday 04/19
+Max temp: 57.65
+Min temp: 42.42
+Morning temp: 43.61
+Day temp: 57.65
+Evening temp: 52.68
+Night temp: 47.16
+Humidity: 57
+Windspeed: 5.7
+
+Tuesday 04/20
+Max temp: 60.96
+Min temp: 40.15
+Morning temp: 47.34
+Day temp: 60.03
+Evening temp: 44.89
+Night temp: 40.15
+Humidity: 59
+Windspeed: 11.18
+
+Wednesday 04/21
+Max temp: 50.43
+Min temp: 34.92
+Morning temp: 35.24
+Day temp: 50.43
+Evening temp: 46.72
+Night temp: 39.43
+Humidity: 50
+Windspeed: 13.6
+
+Wednesday 04/14--- HUMIDITY ALERT ---89
+Thursday 04/15--- LOW TEMP ALERT ---39.13
+Friday 04/16--- LOW TEMP ALERT ---37.89
+Saturday 04/17--- LOW TEMP ALERT ---43.5
+Saturday 04/17--- HUMIDITY ALERT ---94
+Sunday 04/18--- LOW TEMP ALERT ---44.11
+Sunday 04/18--- HUMIDITY ALERT ---68
+Monday 04/19--- LOW TEMP ALERT ---42.42
+Tuesday 04/20--- LOW TEMP ALERT ---40.15
+Wednesday 04/21--- LOW TEMP ALERT ---34.92
+
+
+DHT reading on Wednesday 04/14 07:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 08:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 09:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 10:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 11:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 12:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 13:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 14:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 15:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 16:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 17:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 18:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 19:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 20:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 22:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 04/14 23:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 00:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 02:00 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Thursday 04/15 03:00 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 06:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 15 at 06:03:
+
+Thursday 04/15
+Max temp: 55.31
+Min temp: 41.59
+Morning temp: 41.79
+Day temp: 52.23
+Evening temp: 51.44
+Night temp: 43.74
+Humidity: 50
+Windspeed: 11.95
+
+Friday 04/16
+Max temp: 57.69
+Min temp: 37.33
+Morning temp: 37.33
+Day temp: 55.09
+Evening temp: 56.01
+Night temp: 46
+Humidity: 54
+Windspeed: 5.17
+
+Saturday 04/17
+Max temp: 49.14
+Min temp: 42.85
+Morning temp: 43.72
+Day temp: 48.11
+Evening temp: 48.25
+Night temp: 46.02
+Humidity: 87
+Windspeed: 4.83
+
+Sunday 04/18
+Max temp: 55.94
+Min temp: 42.71
+Morning temp: 42.71
+Day temp: 54.37
+Evening temp: 50.52
+Night temp: 45.07
+Humidity: 57
+Windspeed: 7.58
+
+Monday 04/19
+Max temp: 58.12
+Min temp: 40.62
+Morning temp: 42.62
+Day temp: 57.24
+Evening temp: 52.93
+Night temp: 46.69
+Humidity: 61
+Windspeed: 8.05
+
+Tuesday 04/20
+Max temp: 65.21
+Min temp: 43.09
+Morning temp: 44.58
+Day temp: 64.6
+Evening temp: 58.21
+Night temp: 43.79
+Humidity: 48
+Windspeed: 11.01
+
+Wednesday 04/21
+Max temp: 53.24
+Min temp: 35.13
+Morning temp: 35.13
+Day temp: 50.9
+Evening temp: 46.47
+Night temp: 40.91
+Humidity: 48
+Windspeed: 9.55
+
+Thursday 04/22
+Max temp: 60.06
+Min temp: 36.66
+Morning temp: 38.77
+Day temp: 58.21
+Evening temp: 53.51
+Night temp: 49.77
+Humidity: 45
+Windspeed: 7.34
+
+Thursday 04/15--- LOW TEMP ALERT ---41.59
+Friday 04/16--- LOW TEMP ALERT ---37.33
+Saturday 04/17--- LOW TEMP ALERT ---42.85
+Saturday 04/17--- HUMIDITY ALERT ---87
+Sunday 04/18--- LOW TEMP ALERT ---42.71
+Monday 04/19--- LOW TEMP ALERT ---40.62
+Monday 04/19--- HUMIDITY ALERT ---61
+Tuesday 04/20--- LOW TEMP ALERT ---43.09
+Wednesday 04/21--- LOW TEMP ALERT ---35.13
+Thursday 04/22--- LOW TEMP ALERT ---36.66
+
+
+DHT reading on Thursday 04/15 07:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 08:00 AM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 09:00 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 10:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 11:00 AM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 12:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 13:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 14:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 15:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 16:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 18:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Thursday 04/15 19:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Thursday 04/15 20:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Thursday 04/15 21:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 22:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 04/15 23:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Friday 04/16 00:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Friday 04/16 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Friday 04/16 02:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Friday 04/16 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 16 at 03:57:
+
+Friday 04/16
+Max temp: 58.24
+Min temp: 38.14
+Morning temp: 38.14
+Day temp: 55.8
+Evening temp: 56.53
+Night temp: 45.32
+Humidity: 55
+Windspeed: 6.08
+
+Saturday 04/17
+Max temp: 48.31
+Min temp: 43.45
+Morning temp: 44.53
+Day temp: 48.13
+Evening temp: 45.99
+Night temp: 44.38
+Humidity: 83
+Windspeed: 6.35
+
+Sunday 04/18
+Max temp: 57.51
+Min temp: 43.7
+Morning temp: 43.7
+Day temp: 57.2
+Evening temp: 55.29
+Night temp: 47.61
+Humidity: 48
+Windspeed: 5.03
+
+Monday 04/19
+Max temp: 61.02
+Min temp: 42.62
+Morning temp: 42.73
+Day temp: 61.02
+Evening temp: 55.31
+Night temp: 50.34
+Humidity: 49
+Windspeed: 7.94
+
+Tuesday 04/20
+Max temp: 65.66
+Min temp: 34.92
+Morning temp: 46.02
+Day temp: 65.66
+Evening temp: 41.5
+Night temp: 34.92
+Humidity: 47
+Windspeed: 14.54
+
+Wednesday 04/21
+Max temp: 48.99
+Min temp: 30.51
+Morning temp: 31.78
+Day temp: 48.99
+Evening temp: 42.22
+Night temp: 37.08
+Humidity: 54
+Windspeed: 9.22
+
+Thursday 04/22
+Max temp: 57.56
+Min temp: 33.19
+Morning temp: 34.56
+Day temp: 55.29
+Evening temp: 49.93
+Night temp: 44.24
+Humidity: 45
+Windspeed: 10.27
+
+Friday 04/23
+Max temp: 51.82
+Min temp: 42.31
+Morning temp: 43.39
+Day temp: 47.46
+Evening temp: 51.75
+Night temp: 51.82
+Humidity: 94
+Windspeed: 14.72
+
+Friday 04/16--- LOW TEMP ALERT ---38.14
+Saturday 04/17--- LOW TEMP ALERT ---43.45
+Saturday 04/17--- HUMIDITY ALERT ---83
+Sunday 04/18--- LOW TEMP ALERT ---43.7
+Monday 04/19--- LOW TEMP ALERT ---42.62
+Tuesday 04/20--- LOW TEMP ALERT ---34.92
+Wednesday 04/21--- LOW TEMP ALERT ---30.51
+Thursday 04/22--- LOW TEMP ALERT ---33.19
+Friday 04/23--- LOW TEMP ALERT ---42.31
+Friday 04/23--- HUMIDITY ALERT ---94
+
+
+DHT reading on Friday 04/16 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on Apr 16 at 04:04:
+
+Friday 04/16
+Max temp: 58.24
+Min temp: 37.72
+Morning temp: 37.72
+Day temp: 55.8
+Evening temp: 56.53
+Night temp: 45.32
+Humidity: 55
+Windspeed: 6.08
+
+Saturday 04/17
+Max temp: 48.31
+Min temp: 43.45
+Morning temp: 44.53
+Day temp: 48.13
+Evening temp: 45.99
+Night temp: 44.38
+Humidity: 83
+Windspeed: 6.35
+
+Sunday 04/18
+Max temp: 57.51
+Min temp: 43.7
+Morning temp: 43.7
+Day temp: 57.2
+Evening temp: 55.29
+Night temp: 47.61
+Humidity: 48
+Windspeed: 5.03
+
+Monday 04/19
+Max temp: 61.02
+Min temp: 42.62
+Morning temp: 42.73
+Day temp: 61.02
+Evening temp: 55.31
+Night temp: 50.34
+Humidity: 49
+Windspeed: 7.94
+
+Tuesday 04/20
+Max temp: 65.66
+Min temp: 34.92
+Morning temp: 46.02
+Day temp: 65.66
+Evening temp: 41.5
+Night temp: 34.92
+Humidity: 47
+Windspeed: 14.54
+
+Wednesday 04/21
+Max temp: 48.99
+Min temp: 30.51
+Morning temp: 31.78
+Day temp: 48.99
+Evening temp: 42.22
+Night temp: 37.08
+Humidity: 54
+Windspeed: 9.22
+
+Thursday 04/22
+Max temp: 57.56
+Min temp: 33.19
+Morning temp: 34.56
+Day temp: 55.29
+Evening temp: 49.93
+Night temp: 44.24
+Humidity: 45
+Windspeed: 10.27
+
+Friday 04/23
+Max temp: 51.82
+Min temp: 42.31
+Morning temp: 43.39
+Day temp: 47.46
+Evening temp: 51.75
+Night temp: 51.82
+Humidity: 94
+Windspeed: 14.72
+
+Friday 04/16--- LOW TEMP ALERT ---37.72
+Saturday 04/17--- LOW TEMP ALERT ---43.45
+Saturday 04/17--- HUMIDITY ALERT ---83
+Sunday 04/18--- LOW TEMP ALERT ---43.7
+Monday 04/19--- LOW TEMP ALERT ---42.62
+Tuesday 04/20--- LOW TEMP ALERT ---34.92
+Wednesday 04/21--- LOW TEMP ALERT ---30.51
+Thursday 04/22--- LOW TEMP ALERT ---33.19
+Friday 04/23--- LOW TEMP ALERT ---42.31
+Friday 04/23--- HUMIDITY ALERT ---94
+
+
+DHT reading on Friday 04/16 14:00 PM: Temp: 87.0 F / 30.0 C    Humidity: 26% 
+DHT reading on Friday 04/16 15:00 PM: Temp: 86.0 F / 30.0 C    Humidity: 27% 
+DHT reading on Friday 04/16 16:00 PM: Temp: 93.0 F / 34.0 C    Humidity: 25% 
+DHT reading on Friday 04/16 16:19 PM: Temp: 96.0 F / 35.0 C    Humidity: 24% 
+DHT reading on Friday 04/30 09:00 AM: Temp: 64.0 F / 18.0 C    Humidity: 34% 
+DHT reading on Friday 04/30 09:19 AM: Temp: 64.0 F / 18.0 C    Humidity: 34% 
+DHT reading on Friday 04/30 10:00 AM: Temp: 66.0 F / 18.0 C    Humidity: 33% 
+DHT reading on Friday 04/30 11:00 AM: Temp: 73.0 F / 23.0 C    Humidity: 31% 
+DHT reading on Friday 04/30 12:00 PM: Temp: 81.0 F / 27.0 C    Humidity: 29% 
+DHT reading on Friday 04/30 13:00 PM: Temp: 82.0 F / 28.0 C    Humidity: 28% 
+DHT reading on Friday 04/30 14:00 PM: Temp: 82.0 F / 28.0 C    Humidity: 28% 
+DHT reading on Friday 04/30 15:00 PM: Temp: 82.0 F / 28.0 C    Humidity: 28% 
+DHT reading on Friday 04/30 16:00 PM: Temp: 84.0 F / 29.0 C    Humidity: 27% 
+DHT reading on Friday 04/30 16:35 PM: Temp: 83.0 F / 28.0 C    Humidity: 28% 
+DHT reading on Friday 04/30 17:00 PM: Temp: 78.0 F / 25.0 C    Humidity: 30% 
+DHT reading on Saturday 05/01 19:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/01 20:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/01 21:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/01 22:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/01 23:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 00:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 02:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 06:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on May 02 at 06:03:
+
+Sunday 05/02
+Max temp: 73.69
+Min temp: 56.37
+Morning temp: 57
+Day temp: 71.62
+Evening temp: 66.27
+Night temp: 57.58
+Humidity: 56
+Windspeed: 12.95
+
+Monday 05/03
+Max temp: 74.7
+Min temp: 57.94
+Morning temp: 62.87
+Day temp: 66.2
+Evening temp: 73.69
+Night temp: 69.12
+Humidity: 93
+Windspeed: 15.28
+
+Tuesday 05/04
+Max temp: 73.22
+Min temp: 56.05
+Morning temp: 67.59
+Day temp: 73.22
+Evening temp: 58.26
+Night temp: 56.05
+Humidity: 72
+Windspeed: 18.21
+
+Wednesday 05/05
+Max temp: 62.29
+Min temp: 49.3
+Morning temp: 52.32
+Day temp: 58.77
+Evening temp: 56.68
+Night temp: 49.3
+Humidity: 58
+Windspeed: 7.45
+
+Thursday 05/06
+Max temp: 50.63
+Min temp: 44.2
+Morning temp: 47.05
+Day temp: 50.63
+Evening temp: 48.97
+Night temp: 47.3
+Humidity: 91
+Windspeed: 9.26
+
+Friday 05/07
+Max temp: 61.43
+Min temp: 42.46
+Morning temp: 44.85
+Day temp: 61.43
+Evening temp: 55.33
+Night temp: 52.03
+Humidity: 51
+Windspeed: 11.23
+
+Saturday 05/08
+Max temp: 63
+Min temp: 40.82
+Morning temp: 44.67
+Day temp: 63
+Evening temp: 56.08
+Night temp: 53.37
+Humidity: 51
+Windspeed: 5.77
+
+Sunday 05/09
+Max temp: 60.04
+Min temp: 53.35
+Morning temp: 54.66
+Day temp: 59.27
+Evening temp: 59.9
+Night temp: 60.04
+Humidity: 97
+Windspeed: 9.48
+
+Monday 05/03--- HUMIDITY ALERT ---93
+Tuesday 05/04--- HUMIDITY ALERT ---72
+Thursday 05/06--- LOW TEMP ALERT ---44.2
+Thursday 05/06--- HUMIDITY ALERT ---91
+Friday 05/07--- LOW TEMP ALERT ---42.46
+Saturday 05/08--- LOW TEMP ALERT ---40.82
+Sunday 05/09--- HUMIDITY ALERT ---97
+
+
+DHT reading on Sunday 05/02 06:45 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 06:48 AM: Temp: 69.0 F / 21.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 06:53 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 07:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 07:15 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 07:30 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 07:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 08:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 08:15 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 08:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 08:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 09:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 09:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 09:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 10:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 10:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 10:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 11:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 11:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 11:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 11:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 12:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 12:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 12:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 13:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 13:30 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 13:45 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 14:15 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 14:30 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 14:45 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 15:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 15:15 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 15:30 PM: Temp: 71.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 15:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 16:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 16:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 16:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 16:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 17:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 17:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 17:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 17:45 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 18:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 18:15 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 18:30 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 18:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 19:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 19:15 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/02 19:30 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 19:45 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 20:00 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Sunday 05/02 20:15 PM: Temp: 71.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 06:15 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 06:30 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 06:45 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 07:00 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 07:15 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 17:00 PM: Temp: 71.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 17:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 17:30 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 17:45 PM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 18:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Tuesday 05/04 18:15 PM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 18:30 PM: Temp: 71.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 18:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 19:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 19:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 19:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 19:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 20:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 20:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 20:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 20:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 21:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 21:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 21:30 PM: Temp: 73.0 F / 23.0 C    Humidity: 31% 
+DHT reading on Tuesday 05/04 21:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 22:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 22:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 22:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 22:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 23:00 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 23:15 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 23:30 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Tuesday 05/04 23:45 PM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 00:00 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 00:15 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 00:30 AM: Temp: 72.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 00:45 AM: Temp: 71.0 F / 22.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 01:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 01:15 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 01:30 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 01:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 02:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 02:15 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 02:30 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 02:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 03:00 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 03:15 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 03:30 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 03:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 04:00 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 04:15 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 04:30 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 04:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 05:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 05:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on May 05 at 06:03:
+
+Wednesday 05/05
+Max temp: 63.27
+Min temp: 48.34
+Morning temp: 51.93
+Day temp: 58.93
+Evening temp: 59.34
+Night temp: 48.34
+Humidity: 61
+Windspeed: 11.39
+
+Thursday 05/06
+Max temp: 64.53
+Min temp: 44.08
+Morning temp: 44.83
+Day temp: 62.58
+Evening temp: 58.48
+Night temp: 50.22
+Humidity: 48
+Windspeed: 12.21
+
+Friday 05/07
+Max temp: 61.84
+Min temp: 38.07
+Morning temp: 38.07
+Day temp: 59.61
+Evening temp: 57.78
+Night temp: 46.67
+Humidity: 52
+Windspeed: 17.18
+
+Saturday 05/08
+Max temp: 47.73
+Min temp: 39.7
+Morning temp: 43.88
+Day temp: 47.73
+Evening temp: 46.2
+Night temp: 47.05
+Humidity: 72
+Windspeed: 7.65
+
+Sunday 05/09
+Max temp: 61.18
+Min temp: 46.69
+Morning temp: 57.88
+Day temp: 61.18
+Evening temp: 48.31
+Night temp: 46.69
+Humidity: 95
+Windspeed: 20.18
+
+Monday 05/10
+Max temp: 61.41
+Min temp: 43.14
+Morning temp: 43.36
+Day temp: 59.77
+Evening temp: 55.13
+Night temp: 46.54
+Humidity: 53
+Windspeed: 12.12
+
+Tuesday 05/11
+Max temp: 60.22
+Min temp: 39.87
+Morning temp: 43.12
+Day temp: 55.71
+Evening temp: 54.61
+Night temp: 48.24
+Humidity: 56
+Windspeed: 10.07
+
+Wednesday 05/12
+Max temp: 62.29
+Min temp: 44.65
+Morning temp: 45.73
+Day temp: 61.65
+Evening temp: 58.23
+Night temp: 59.88
+Humidity: 61
+Windspeed: 11.52
+
+Wednesday 05/05--- HUMIDITY ALERT ---61
+Thursday 05/06--- LOW TEMP ALERT ---44.08
+Friday 05/07--- LOW TEMP ALERT ---38.07
+Saturday 05/08--- LOW TEMP ALERT ---39.7
+Saturday 05/08--- HUMIDITY ALERT ---72
+Sunday 05/09--- HUMIDITY ALERT ---95
+Monday 05/10--- LOW TEMP ALERT ---43.14
+Tuesday 05/11--- LOW TEMP ALERT ---39.87
+Wednesday 05/12--- LOW TEMP ALERT ---44.65
+Wednesday 05/12--- HUMIDITY ALERT ---61
+
+
+DHT reading on Wednesday 05/05 06:15 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 06:30 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 06:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 07:00 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Wednesday 05/05 07:15 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 07:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 07:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 08:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 08:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 08:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 08:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 09:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 09:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 09:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 09:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 10:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 10:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 10:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 10:45 AM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 11:00 AM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 11:15 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 11:30 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 11:45 AM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 12:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 12:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 12:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 12:45 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 13:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 13:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 13:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 13:45 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 14:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 14:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 14:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 14:45 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 15:00 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 15:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 15:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 15:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 16:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 16:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 16:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 16:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 17:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 17:15 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 17:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 17:45 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 18:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 18:15 PM: Temp: 64.0 F / 18.0 C    Humidity: 34% 
+DHT reading on Wednesday 05/05 18:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 18:45 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 19:00 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 19:15 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 19:30 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 19:45 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 20:00 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 20:15 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 20:30 PM: Temp: 67.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 20:45 PM: Temp: 67.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 21:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 21:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 21:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 21:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 22:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 22:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 22:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 22:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 23:00 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 23:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 23:30 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Wednesday 05/05 23:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 00:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 00:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 00:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 00:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 01:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 01:15 AM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Thursday 05/06 01:30 AM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 01:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 02:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 02:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 02:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 02:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 03:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 03:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 03:30 AM: Temp: 69.0 F / 20.0 C    Humidity: 32% 
+DHT reading on Thursday 05/06 03:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Thursday 05/06 04:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 04:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 04:30 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 04:45 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 05:00 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Thursday 05/06 05:15 AM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+
+Forecast taken on May 06 at 06:03:
+
+Thursday 05/06
+Max temp: 64.18
+Min temp: 40.77
+Morning temp: 40.77
+Day temp: 61.11
+Evening temp: 58.33
+Night temp: 49.51
+Humidity: 48
+Windspeed: 12.77
+
+Friday 05/07
+Max temp: 60.75
+Min temp: 38.52
+Morning temp: 38.52
+Day temp: 59.94
+Evening temp: 55.85
+Night temp: 47.82
+Humidity: 48
+Windspeed: 14.7
+
+Saturday 05/08
+Max temp: 58.71
+Min temp: 39.27
+Morning temp: 40.12
+Day temp: 58.69
+Evening temp: 49.57
+Night temp: 45.9
+Humidity: 50
+Windspeed: 8.59
+
+Sunday 05/09
+Max temp: 65.21
+Min temp: 45.72
+Morning temp: 49.41
+Day temp: 62.19
+Evening temp: 64.99
+Night temp: 65.03
+Humidity: 92
+Windspeed: 18.5
+
+Monday 05/10
+Max temp: 65.77
+Min temp: 44.26
+Morning temp: 52.95
+Day temp: 53.58
+Evening temp: 51.12
+Night temp: 44.26
+Humidity: 75
+Windspeed: 15.39
+
+Tuesday 05/11
+Max temp: 60.67
+Min temp: 39.47
+Morning temp: 41.88
+Day temp: 58.78
+Evening temp: 54.73
+Night temp: 47.21
+Humidity: 53
+Windspeed: 7.61
+
+Wednesday 05/12
+Max temp: 60.24
+Min temp: 41.38
+Morning temp: 44.01
+Day temp: 60.24
+Evening temp: 55.2
+Night temp: 50.79
+Humidity: 49
+Windspeed: 12.39
+
+Thursday 05/13
+Max temp: 50.49
+Min temp: 45.97
+Morning temp: 46.8
+Day temp: 46.92
+Evening temp: 48.09
+Night temp: 47.25
+Humidity: 98
+Windspeed: 10.4
+
+Thursday 05/06--- LOW TEMP ALERT ---40.77
+Friday 05/07--- LOW TEMP ALERT ---38.52
+Saturday 05/08--- LOW TEMP ALERT ---39.27
+Sunday 05/09--- HUMIDITY ALERT ---92
+Monday 05/10--- LOW TEMP ALERT ---44.26
+Monday 05/10--- HUMIDITY ALERT ---75
+Tuesday 05/11--- LOW TEMP ALERT ---39.47
+Wednesday 05/12--- LOW TEMP ALERT ---41.38
+Thursday 05/13--- HUMIDITY ALERT ---98
+
+
+
+Forecast taken on May 07 at 06:03:
+
+Friday 05/07
+Max temp: 63.03
+Min temp: 42.35
+Morning temp: 42.35
+Day temp: 60.28
+Evening temp: 54.37
+Night temp: 48.47
+Humidity: 49
+Windspeed: 13.8
+
+Saturday 05/08
+Max temp: 53.24
+Min temp: 37.81
+Morning temp: 37.89
+Day temp: 52.77
+Evening temp: 45.72
+Night temp: 45.28
+Humidity: 57
+Windspeed: 8.14
+
+Sunday 05/09
+Max temp: 68.34
+Min temp: 45.64
+Morning temp: 56.34
+Day temp: 67.91
+Evening temp: 65.03
+Night temp: 63.84
+Humidity: 78
+Windspeed: 22.48
+
+Monday 05/10
+Max temp: 59.52
+Min temp: 46.09
+Morning temp: 46.09
+Day temp: 55.78
+Evening temp: 54.12
+Night temp: 49.87
+Humidity: 66
+Windspeed: 10.2
+
+Tuesday 05/11
+Max temp: 59.56
+Min temp: 39.24
+Morning temp: 41.11
+Day temp: 58.8
+Evening temp: 53.11
+Night temp: 45.05
+Humidity: 43
+Windspeed: 10.09
+
+Wednesday 05/12
+Max temp: 61.88
+Min temp: 40.17
+Morning temp: 43.39
+Day temp: 59.83
+Evening temp: 57.43
+Night temp: 55.54
+Humidity: 50
+Windspeed: 11.54
+
+Thursday 05/13
+Max temp: 60.64
+Min temp: 48.74
+Morning temp: 55.04
+Day temp: 59.04
+Evening temp: 54.79
+Night temp: 48.74
+Humidity: 89
+Windspeed: 14.25
+
+Friday 05/14
+Max temp: 65.88
+Min temp: 49.05
+Morning temp: 50.05
+Day temp: 63.66
+Evening temp: 60.49
+Night temp: 52.66
+Humidity: 57
+Windspeed: 8.12
+
+Friday 05/07--- LOW TEMP ALERT ---42.35
+Saturday 05/08--- LOW TEMP ALERT ---37.81
+Sunday 05/09--- HUMIDITY ALERT ---78
+Monday 05/10--- HUMIDITY ALERT ---66
+Tuesday 05/11--- LOW TEMP ALERT ---39.24
+Wednesday 05/12--- LOW TEMP ALERT ---40.17
+Thursday 05/13--- HUMIDITY ALERT ---89
+
+
+DHT reading on Saturday 05/08 17:45 PM: Temp: 66.0 F / 18.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 18:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 18:30 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 18:47 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 19:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 19:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 20:00 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 20:15 PM: Temp: 66.0 F / 19.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 20:30 PM: Temp: 69.0 F / 21.0 C    Humidity: 32% 
+DHT reading on Saturday 05/08 20:45 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 21:00 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 21:15 PM: Temp: 68.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 21:30 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Saturday 05/08 21:45 PM: Temp: 69.0 F / 20.0 C    Humidity: 33% 
+DHT reading on Sunday 05/09 06:45 AM: Temp: 70.0 F / 21.0 C    Humidity: 32% 
+
+Forecast taken on May 10 at 06:03:
+
+Monday 05/10
+Max temp: 61.41
+Min temp: 43.03
+Morning temp: 43.09
+Day temp: 57.88
+Evening temp: 55.42
+Night temp: 50.61
+Humidity: 57
+Windspeed: 9.82
+
+Tuesday 05/11
+Max temp: 59.9
+Min temp: 42.17
+Morning temp: 42.17
+Day temp: 58.87
+Evening temp: 55.24
+Night temp: 47.3
+Humidity: 59
+Windspeed: 10.29
+
+Wednesday 05/12
+Max temp: 59.67
+Min temp: 37.87
+Morning temp: 37.87
+Day temp: 56.95
+Evening temp: 57.27
+Night temp: 44.83
+Humidity: 48
+Windspeed: 11.36
+
+Thursday 05/13
+Max temp: 61.66
+Min temp: 39.51
+Morning temp: 42.89
+Day temp: 60.51
+Evening temp: 55.62
+Night temp: 48.72
+Humidity: 48
+Windspeed: 7.7
+
+Friday 05/14
+Max temp: 64.26
+Min temp: 42.37
+Morning temp: 47.75
+Day temp: 64.26
+Evening temp: 57.25
+Night temp: 52.68
+Humidity: 44
+Windspeed: 5.86
+
+Saturday 05/15
+Max temp: 67.89
+Min temp: 46.09
+Morning temp: 49.32
+Day temp: 67.19
+Evening temp: 61.39
+Night temp: 53.28
+Humidity: 48
+Windspeed: 5.39
+
+Sunday 05/16
+Max temp: 65.59
+Min temp: 49.89
+Morning temp: 53.01
+Day temp: 65.59
+Evening temp: 62.06
+Night temp: 59.4
+Humidity: 59
+Windspeed: 5.68
+
+Monday 05/17
+Max temp: 75.42
+Min temp: 56.71
+Morning temp: 57.04
+Day temp: 75.42
+Evening temp: 69.82
+Night temp: 64.51
+Humidity: 68
+Windspeed: 8.55
+
+Monday 05/10--- LOW TEMP ALERT ---43.03
+Tuesday 05/11--- LOW TEMP ALERT ---42.17
+Wednesday 05/12--- LOW TEMP ALERT ---37.87
+Thursday 05/13--- LOW TEMP ALERT ---39.51
+Friday 05/14--- LOW TEMP ALERT ---42.37
+Monday 05/17--- HUMIDITY ALERT ---68
+
+
