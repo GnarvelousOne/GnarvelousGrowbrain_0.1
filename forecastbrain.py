@@ -7,7 +7,7 @@ import json
 import datetime
 from dht import dhtRun
 import dht
-api_key = "3b0d6b5cb7b4d578ecbadefd15973c44"
+api_key = "INSERT YOUR KEY HERE"
 
 #these are Louisville, KY coordinates
 lat = "38.091349"
@@ -17,7 +17,7 @@ lon = "-85.583982"
 url = "https://api.openweathermap.org/data/2.5/onecall?" \
       "lat=38.0996&lon=-85.5631&units=imperial&" \
       "exclude=current,hourly,minutely&" \
-      "appid=3b0d6b5cb7b4d578ecbadefd15973c44"
+      "INSERT YOUR KEY HERE"
 
 response = requests.get(url)
 data = json.loads(response.text)
