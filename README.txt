@@ -80,7 +80,7 @@ USB Wifi dongle is essential to connect the Rpi to the internet.
 
 An HDMI output can connect a display such as a 5” touchscreen or even a large TV or regular computer monitor.  You can also use something as simple as a 2 or 4 line LCD display.  Or you can use a laptop to connect to the Rpi through SSH.
 
-Audio can be sent out a the 3.5mm (1/8”) headphone jack, or through HDMI if connecting to a TV monitor with internal speakers.
+Audio can be sent out via the 3.5mm (1/8”) headphone jack, or through HDMI if connecting to a TV monitor with internal speakers.
 
 The GPIO pins can also connect to 5V DC relay switches, which themselves connect to standard 3-prong 120V outlets.  You must also supply mains voltage to these relays.  Keep in mind the more outlets you use at once will increase the load on the wires, the same as when using a power strip, so there is a limit to how much voltage can run through any single system.  For large applications you may need to use more than one circuit breaker or consider a dedicated 50 amp 240V line which can then be broken down into separate 15 or 20 amp 120V lines. 
 
