@@ -14,7 +14,7 @@ While more and more companies provide very slick platforms for farm automation, 
 
 This is completely antithetical to the values of the GG, and the idea of human autonomy. These companies want profits, and whether they know it or not their actions serve to maintain the power imbalance of producer and consumer.  This happens through the company maintaining possesion the user’s data on their servers, extracting monthly rents, and controlling the entire experience through proprietary closed software; the farmer must adapt to fit the companies’ idea of how to do things.  
 
-Overall, any decisions made by these companies must serve the main goal of remaining profitable and competitive in the marketplace.  By trying to exist and play ball within the currently collapsing capitalist catastrophe in it’s languishing lustful Loathrian late stage, these companies may not even survive for long.  Everything is now an overhyped start-up.  They can all be compromised by hackers or governments, and almost all require web access to work at all.  They often provide only the software, forcing the user to buy 3rd party hardware which adds yet another disadvantageous relationship of consumer supplicating itself to the producer.  
+Overall, any decisions made by these companies must serve the main goal of remaining profitable and competitive in the marketplace.  By trying to exist and play ball within the currently collapsing capitalist catastrophe in it’s languishing lustful Lotharian late stage, these companies may not even survive for long.  Everything is now an overhyped start-up.  They can all be compromised by hackers or governments, and almost all require web access to work at all.  They often provide only the software, forcing the user to buy 3rd party hardware which adds yet another disadvantageous relationship of consumer supplicating itself to the producer.  
 
 Additionally, modern software is often dumbed down to the point of insult.  If we are to advance and survive as a species, the survivors need to level up their own understanding of technology.  We must stretch in order to reach new heights, the opposite of these mindless apps which encourage us to push the feeder bar for another treat.  The truth is we all can and should become programmers.  Not as you see in large tech companies where once again the individual finds themselves performing one simple task repeatedly like a cog in the machine, rather, we can be the entire company at once, in a way that directly benefits ourselves.  The future is now, old man.
 
@@ -31,7 +31,7 @@ dht.py – takes temperature and humidity measurements, writes them to the logs,
 
 dhtdata.xlsx – spreadsheet that collects the temp and hum data.
 
-sprinkleron.py & sprinkleroff.py – examples of controlling the 5v DC relays to turn things on and off.  They are separated into and on and off script so that they may be scheduled through the crontab without having to use over complicated python scripts or by using time.sleep() to put the computer to sleep for extended periods.
+sprinkleron.py & sprinkleroff.py – examples of controlling the 5v DC relays to turn things on and off.  They are separated into and on and off scripts so that they may be scheduled through the crontab without having to use over complicated python scripts or by using time.sleep() to put the computer to sleep for extended periods.
 
 forecastbrain.py – web scrapes accuweather.com for local 7 day forecast and sends the user an email periodically.
 
@@ -47,7 +47,7 @@ cron.log – logs output and errors from each cron scheduled task.
 
 
 
-The Rpi is setup to automatically log in to the X gui upon boot.  This ensures that in a power failure, the Rpi will start back up automatically and that quickstart.py will work properly as it needs to open a web browser.  It also allows the user to simply unplug the device if anything is not working properly and it will start over fresh.
+The Rpi is setup to automatically log in to the X gui upon boot.  This ensures that in a power failure, the Rpi will start back up automatically and that quickstart.py will work properly as it needs to open a web browser.  It also allows the user to simply unplug the device if anything is not working properly, plug it back in, and it will start over fresh.
 
 The GG uses the crontab to schedule all jobs.  This prevents the need from writing a python script to do the scheduling which would need to be running continuously.  The crontab also conviently provides its own log, and runs automatically as long as the Rpi is powered on.
 
@@ -57,7 +57,7 @@ The GG can control 5v DC relays to turn on and off mains power to anything runni
 
 A simple DHT temperature and humidity sensor is used to record data, which can then either be simply stored for analysis or can be used as the trigger to activate a 5v DC relay.
 
-Webcams can be used to visually monitor your garden.
+Common USB webcams can be used to visually monitor your garden.
 
 The Rpi can work with or without internet access.  It is even concievable to power it temporarily with cell-phone charger batteries in the event you have no electricity available.
 
