@@ -26,7 +26,6 @@
 # 15: LCD Backlight +5V**
 # 16: LCD Backlight GND
 
-import config
 import RPi.GPIO as GPIO
 import time
 import datetime

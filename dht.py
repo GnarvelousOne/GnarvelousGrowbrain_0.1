@@ -3,7 +3,7 @@
 displaytemp_f = 0
 
 def dhtRun():
-    import config
+    import ezgmail
     import I2C_LCD_driver
     import openpyxl
     import time
@@ -11,10 +11,16 @@ def dhtRun():
     import board
     import adafruit_dht
     import RPi.GPIO as GPIO
-    from alert import alert_high_temp_send, alert_low_temp_send, alert_high_hum_send
 
     timeNow = datetime.datetime.now()
+
+    # set the high and low temp and hum alerts to trigger sending an email alert:
+    hightemp = 78
+    lowtemp = 45
+    highhum = 70
     
+    # email addresses to send alert warnings
+    recipientList = ['stephenmparvin@gmail.com']
     
     # Initial the dht device, with data pin connected to:
 
@@ -143,18 +149,31 @@ def dhtRun():
         displaytemp_c = round(displaytemp_c)
     if type(displayhum) == int or type(displayhum) == float:
         displayhum = round(displayhum)
-        
-    # set the high and low temp and hum alerts to trigger sending an email alert:
-    hightemp = 73
-    lowtemp = 45
-    highhum = 75
     
-    if displaytemp_f == hightemp or displaytemp_f > hightemp:
-        alert_high_temp_send()
-    if displaytemp_f == lowtemp or displaytemp_f < lowtemp:
-        alert_low_temp_send()
-    if displayhum == highhum or displayhum > highhum:
-        alert_high_hum_send()
+    
+    if displaytemp_f >= hightemp:
+        print("Sending High Temp Alert!!!")
+        for i in recipientList:
+            ezgmail.send(i,'HIGH TEMP ALERT','ALERT:  On ' + 
+            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
+            ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is ABOVE the safe level of '+str(hightemp)+'.'+
+            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
+    
+    if displaytemp_f <= lowtemp:
+        print("Sending Low Temp Alert!!!")
+        for i in recipientList:
+            ezgmail.send(i,'LOW TEMP ALERT','ALERT:  On ' + 
+            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
+            ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is BELOW the safe level of '+str(lowtemp)+'.'+
+            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
+    
+    if displayhum >= highhum:
+        print("Sending High Humidity Alert!!!")
+        for i in recipientList:
+            ezgmail.send(i,'HIGH HUMIDITY ALERT','ALERT:  On ' + 
+            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
+            ', the relative humidity in the JM Nursery is '+str(displayhum)+'. This is ABOVE the safe level of '+str(highhum)+'.'+
+            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
 
     print(
         "DHT reading on " + str(timeNow.strftime('%A %m/%d %H:%M %p')) + ": "+"Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
