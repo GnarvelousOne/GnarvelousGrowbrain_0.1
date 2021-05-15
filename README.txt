@@ -27,19 +27,19 @@ Cast of Characters:
 
 dhtbrain.py – this is the main program which calls dht.py and quickstart.py.
 
-dht.py – takes temperature and humidity measurements, writes them to the logs, and calls alerts.py if measurements are outside the desired range.
+dht.py – takes temperature and humidity measurements, writes them to the logs, and sends alert emails if measurements are outside the desired range.
 
-dhtdata.xlsx – spreadsheet that collects the temp and hum data.
+dhtdata.xlsx – spreadsheet that collects the temp and hum data. Can be uploaded to Google Drive through quickstart.py.
 
 sprinkleron.py & sprinkleroff.py – examples of controlling the 5v DC relays to turn things on and off.  They are separated into and on and off scripts so that they may be scheduled through the crontab without having to use over complicated python scripts or by using time.sleep() to put the computer to sleep for extended periods.
 
-forecastbrain.py – web scrapes accuweather.com for local 7 day forecast and sends the user an email periodically.
+forecastbrain.py – web scrapes accuweather.com for local 7 day forecast and sends the user an email periodically. Scheduled through crontab.
 
 quickstart.py – uploads dhtdata.xlsx to a google drive folder for cloud access. Requires the Rpi to run in X due to having to open a web browser for authentication.
 
-alerts.py – sends alert emails if the temp or hum is outside of desired range.  ** Merged this into dht.py so that the email can easily send the actual temperature readings without having pull them across scripts.
+alerts.py – sends alert emails if the temp or hum is outside of desired range.  ** Merged this directly into dht.py so that the email can easily send the actual temperature readings without having pull them across scripts.
 
-reboot.py – reboots the Rpi periodically to correct for any authentication issues that can arise occasionally during quickstart.py and the google drive authentication process.
+reboot.py – reboots the Rpi periodically to correct for any authentication issues that can arise occasionally during quickstart.py and the google drive authentication process.  If certain errors occur during temperature readings or while the user is modifying and debugging code, it can cause authentication errors until the Rpi is rebooted.
 
 ForecastLog.txt – txt file that receives forecast and temp hum data.  May be obsolete as the cron.log collects the same data as long as it is printed to the terminal and the program is run through a cron job.
 
@@ -49,7 +49,7 @@ cron.log – logs output and errors from each cron scheduled task.
 
 The Rpi is setup to automatically log in to the X gui upon boot.  This ensures that in a power failure, the Rpi will start back up automatically and that quickstart.py will work properly as it needs to open a web browser.  It also allows the user to simply unplug the device if anything is not working properly, plug it back in, and it will start over fresh.
 
-The GG uses the crontab to schedule all jobs.  This prevents the need from writing a python script to do the scheduling which would need to be running continuously.  The crontab also conviently provides its own log, and runs automatically as long as the Rpi is powered on.
+The GG uses the crontab to schedule all jobs.  This prevents the need from writing a python script to do the scheduling which would need to be running continuously.  The crontab also conviently provides its own log, and runs automatically as long as the Rpi is powered on.  An incredibly powerful tool that is easy to get the hang of.  You can disable scheduling by simply commenting out a job with a '#' in the front of a line.  For example, if you have reboot.py set to run periodically, you don't want it to run if you are the middle of adding new code to a script.
 
 The GG can run headless or with a number of displays – HDMI, LCD, Touchscreens, etc.  Remote access can be done through SSH.
 
@@ -61,7 +61,7 @@ Common USB webcams can be used to visually monitor your garden.
 
 The Rpi can work with or without internet access.  It is even concievable to power it temporarily with cell-phone charger batteries in the event you have no electricity available.
 
-The Rpi itself is a full functioning linux based computer.  It has a web browser, office productivity software, VLC media player, python editors, and more.  It can charge your cell phone.  You can install video game emulators.  You can stream Spotify songs through it.  The incredible potentiality combined with everything being open-source and in your control means the GG can truly be as unique as each individual using it.  There is not much limit to what you do with it, except perhaps for the limited computing power.
+The Rpi itself is a full functioning Linux based computer.  It has a web browser, office productivity software, VLC media player, python editors, and more.  It can charge your cell phone.  You can install video game emulators.  You can stream Spotify songs through it.  The incredible potentiality combined with everything being open-source and in your control means the GG can truly be as unique as each individual using it.  There is not much limit to what you do with it, except perhaps for the limited computing power.
 
 
 Hardware:
@@ -96,7 +96,7 @@ raspi-config – access through “sudo raspi-config” at the terminal
 crontab – access through “crontab -e” at the terminal
 - crontab.guru is an excellent website to help determine how to schedule things the way you want.
 - the key elements are the five “* * * * *” which determine when the programs will run.  It is very important that you do not schedule multiple programs to run at the same time, rather, you should space them out by at least a minute or however long it takes for each one to finish.  
-- the second part is the path to file that you want to run.
+- the second part is the path to the file that you want to run.
 - the third part pipes the output of that program to cron.log so you can debug and verify things are working.
 
 Google developer account
@@ -111,6 +111,3 @@ Emailing data and alerts
 Prometheus Realized
 Xiqual Udinbak
 Aepalizage
-
-
- 
