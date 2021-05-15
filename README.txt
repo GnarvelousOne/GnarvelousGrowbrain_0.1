@@ -37,7 +37,7 @@ forecastbrain.py – web scrapes accuweather.com for local 7 day forecast and se
 
 quickstart.py – uploads dhtdata.xlsx to a google drive folder for cloud access. Requires the Rpi to run in X due to having to open a web browser for authentication.
 
-alerts.py – sends alert emails if the temp or hum is outside of desired range.
+alerts.py – sends alert emails if the temp or hum is outside of desired range.  ** Merged this into dht.py so that the email can easily send the actual temperature readings without having pull them across scripts.
 
 reboot.py – reboots the Rpi periodically to correct for any authentication issues that can arise occasionally during quickstart.py and the google drive authentication process.
 
