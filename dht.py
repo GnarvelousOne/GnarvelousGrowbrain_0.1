@@ -151,7 +151,7 @@ def dhtRun():
         displayhum = round(displayhum)
     
     
-    if displaytemp_f >= hightemp:
+    if displaytemp_f >= hightemp and type(displayhum) != NoneType:
         print("Sending High Temp Alert!!!")
         for i in recipientList:
             ezgmail.send(i,'HIGH TEMP ALERT','ALERT:  On ' + 
@@ -159,7 +159,7 @@ def dhtRun():
             ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is ABOVE the safe level of '+str(hightemp)+'.'+
             '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
     
-    if displaytemp_f <= lowtemp:
+    if displaytemp_f <= lowtemp and type(displayhum) != NoneType:
         print("Sending Low Temp Alert!!!")
         for i in recipientList:
             ezgmail.send(i,'LOW TEMP ALERT','ALERT:  On ' + 
@@ -167,7 +167,7 @@ def dhtRun():
             ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is BELOW the safe level of '+str(lowtemp)+'.'+
             '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
     
-    if displayhum >= highhum:
+    if displayhum >= highhum and type(displayhum) != NoneType:
         print("Sending High Humidity Alert!!!")
         for i in recipientList:
             ezgmail.send(i,'HIGH HUMIDITY ALERT','ALERT:  On ' + 
@@ -221,11 +221,6 @@ def dhtRun():
             dhtRun()
         else:
             pass
-        
-def gettemp():
-    blob = 0
-    blob == dhtRun.displaytemp_f
-    return blob
     
     '''
     #Uncomment all below if using LCD for a display:
