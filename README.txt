@@ -86,9 +86,3 @@ Google developer account
 Emailing data and alerts
 - ezgmail is the Python module needed to do this.  Once installed it is very simple to use.  Follow the steps online for Google Gmail in the same way you set up access for Drive.
 
-
-
-
-Prometheus Realized
-Xiqual Udinbak
-Aepalizage
