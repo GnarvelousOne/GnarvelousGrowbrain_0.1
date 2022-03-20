@@ -1,20 +1,25 @@
 #! /usr/bin/python
 
-displaytemp_f = 0
+# Variable will be used later to check for errors.
+global try_counter
+try_counter = 0
 
 def dhtRun():
-    import ezgmail
-    import I2C_LCD_driver
-    import openpyxl
+    #import ezgmail
+    #import I2C_LCD_driver
+    #import openpyxl
     import time
     import datetime
     import board
     import adafruit_dht
     import RPi.GPIO as GPIO
+    import sqlite3
 
+    # get the current time
     timeNow = datetime.datetime.now()
 
-    # set the high and low temp and hum alerts to trigger sending an email alert:
+    # set the high and low temp and hum alerts
+    # to trigger sending an email alert:
     hightemp = 78
     lowtemp = 45
     highhum = 70
@@ -23,7 +28,6 @@ def dhtRun():
     recipientList = ['stephenmparvin@gmail.com']
     
     # Initial the dht device, with data pin connected to:
-
     dhtDevice = adafruit_dht.DHT11(board.D4)
 
     # you can pass DHT22 use_pulseio=False if you wouldn't like to use pulseio.
@@ -31,118 +35,83 @@ def dhtRun():
     # but it will not work in CircuitPython.
     # dhtDevice = adafruit_dht.DHT22(board.D18, use_pulseio=False)
 
+    # make the lists to hold the readings
+    temp_C_list = []
+    temp_F_list = []
+    humidity_list = []  
 
-    # take the average of 3 readings, adjust for any errors.  It takes 2 seconds between readings for the sensor to update
-    tempClist = []
-    tempFlist = []
-    humlist = []  
-
-
-    try:
-        temperature_c = dhtDevice.temperature
-        tempClist.append(temperature_c)
-    except:
-        pass
-    try:
-        temperature_c = dhtDevice.temperature
-        temperature_f = temperature_c * (9 / 5) + 32
-        tempFlist.append(temperature_f)
-    except:
-        pass
-    try:
-        humidity = dhtDevice.humidity
-        humlist.append(humidity)
-    except:
-        pass
-
-    time.sleep(2)
-
-    try:
-        temperature_c = dhtDevice.temperature
-        tempClist.append(temperature_c)
-    except:
-        pass
-    try:
-        temperature_c = dhtDevice.temperature
-        temperature_f = temperature_c * (9 / 5) + 32
-        tempFlist.append(temperature_f)
-    except:
-        pass
-    try:
-        humidity = dhtDevice.humidity
-        humlist.append(humidity)
-    except:
-        pass
-
-    time.sleep(2)
-
-    try:
-        temperature_c = dhtDevice.temperature
-        tempClist.append(temperature_c)
-    except:
-        pass
-    try:
-        temperature_c = dhtDevice.temperature
-        temperature_f = temperature_c * (9 / 5) + 32
-        tempFlist.append(temperature_f)
-    except:
-        pass
-    try:
-        humidity = dhtDevice.humidity
-        humlist.append(humidity)
-    except:
-        pass
-
-    time.sleep(2)
-
-    print(tempFlist)
-    print(tempClist)
-    print(humlist)
-
-    j = 0
-    for i in tempClist:
+    # Now take the average of 3 DHT readings, and adjust for any errors.
+    # Add each reading to its list.  
+    # Sleep for 2.5 seconds inbetween readings because it takes 2 seconds
+    # for the sensor to take a new reading.
+    # The DHT measures two things: temp in celsius and relative humidity,
+    # so we will convert C to F mathematically
+    for i in range(3):
         try:
-            j += i
+            temperature_c = dhtDevice.temperature
+            temp_C_list.append(temperature_c)
+        except:
+            pass
+            
+        try:
+            temperature_f = temperature_c * (9 / 5) + 32
+            temp_F_list.append(temperature_f)
+        except:
+            pass
+            
+        try:
+            humidity = dhtDevice.humidity
+            humidity_list.append(humidity)
         except:
             pass
 
-    k = 0
-    for i in tempFlist:
+        time.sleep(2.5)
+
+    # Add together the 3 readings so we can take the average.
+    temp_C_sum = 0
+    for i in temp_C_list:
         try:
-            k += i
+            temp_C_sum += i
         except:
             pass
 
-    l = 0
-    for i in humlist:
+    temp_F_sum = 0
+    for i in temp_F_list:
         try:
-            l += i
+            temp_F_sum += i
         except:
             pass
 
+    humidity_sum = 0
+    for i in humidity_list:
+        try:
+            humidity_sum += i
+        except:
+            pass
+
+    # Take average, unless we have non-integer readings due to an error.
+    # In that case, return zero.
     try:
-        displaytemp_c = (j/len(tempClist))
+        displaytemp_c = (temp_C_sum/len(temp_C_list))
     except:
         displaytemp_c = 0
 
     try:
-        displaytemp_f = (k/len(tempFlist))
+        displaytemp_f = (temp_F_sum/len(temp_F_list))
     except:
         displaytemp_f = 0
-
+        
+    # If there is an error, the DHT returns a Nonetype for humidity, so 
+    # work it different than the temp reading.
     try:
-        if l < humidity*3:
-            displayhum = humlist[-1]
+        if humidity_sum < humidity*3:
+            displayhum = humidity_list[-1]
         else:
-            displayhum = (l/len(humlist))
+            displayhum = (humidity_sum/len(humidity_list))
     except:
-        displayhum = humlist[-1]
-
-    # Uncomment to check the math
-    #print(k)
-    #print(j)
-    #print(l)
-
+        displayhum = humidity_list[-1]
+        
+    # Sometimes the averaging results in repeating decimals, so round off.
     if type(displaytemp_f) == int or type(displaytemp_f) == float:
         displaytemp_f = round(displaytemp_f)
     if type(displaytemp_c) == int or type(displaytemp_c) == float:
@@ -150,40 +119,53 @@ def dhtRun():
     if type(displayhum) == int or type(displayhum) == float:
         displayhum = round(displayhum)
     
-    
-    if displaytemp_f >= hightemp and type(displayhum) != NoneType:
-        print("Sending High Temp Alert!!!")
-        for i in recipientList:
-            ezgmail.send(i,'HIGH TEMP ALERT','ALERT:  On ' + 
-            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
-            ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is ABOVE the safe level of '+str(hightemp)+'.'+
-            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
-    
-    if displaytemp_f <= lowtemp and type(displayhum) != NoneType:
-        print("Sending Low Temp Alert!!!")
-        for i in recipientList:
-            ezgmail.send(i,'LOW TEMP ALERT','ALERT:  On ' + 
-            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
-            ', the ambient temperature in the JM Nursery is '+str(displaytemp_f)+'. This is BELOW the safe level of '+str(lowtemp)+'.'+
-            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
-    
-    if displayhum >= highhum and type(displayhum) != NoneType:
-        print("Sending High Humidity Alert!!!")
-        for i in recipientList:
-            ezgmail.send(i,'HIGH HUMIDITY ALERT','ALERT:  On ' + 
-            str(timeNow.strftime('%A %m/%d %H:%M %p')) + 
-            ', the relative humidity in the JM Nursery is '+str(displayhum)+'. This is ABOVE the safe level of '+str(highhum)+'.'+
-            '\n\n'+'This email was sent automatically by The Gnarvelous Growbrain')
+    # Prepare results to be returned in a list.
+    results = []
+    results.append(displaytemp_c)
+    results.append(displaytemp_f)
+    results.append(displayhum)
 
+    # Display the results.
     print(
-        "DHT reading on " + str(timeNow.strftime('%A %m/%d %H:%M %p')) + ": "+"Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
+        "DHT reading on " + str(timeNow.strftime('%A %m/%d %H:%M %p')) +
+         ": "+"Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
             displaytemp_f, displaytemp_c, displayhum)
     )
 
+    # Write the results to a .txt file.
     with open('ForecastLog.txt', 'a') as forecastLog:
-                forecastLog.write("DHT reading on " + str(timeNow.strftime('%A %m/%d %H:%M %p')) + ": " + "Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
+                forecastLog.write("DHT reading on " +
+                 str(timeNow.strftime('%A %m/%d %H:%M %p')) +": " +
+                  "Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
             displaytemp_f, displaytemp_c, displayhum)+"\n")
                     
+                    
+    # Write the results to the SQL database.
+    conn = sqlite3.connect("dht.db")
+    
+    c = conn.cursor()
+    
+    # Only run this the first time to create the table.
+    '''c.execute("""CREATE TABLE dht (
+                day_of_week text,
+                date text,
+                time text,
+                celsius int,
+                fahrenheit int,
+                humidity int
+                )""")'''
+                
+    c.execute("INSERT INTO dht VALUES (?,?,?,?,?,?)",
+                (timeNow.strftime('%A'),
+                timeNow.strftime('%m/%d'),
+                timeNow.strftime('%H:%M %p'),
+                 results[0], results[1], results[2]))
+    
+    conn.commit()
+    conn.close()
+    
+    # Write the results to a .xlsx file.  This takes several seconds.
+    '''print('writing to xlsx file')
     wb = openpyxl.load_workbook('dhtdata.xlsx')
     ws = wb.active
 
@@ -195,140 +177,22 @@ def dhtRun():
         else:
             ws.append(data)
 
-
-    wb.save('dhtdata.xlsx')
-    '''
-    # Use this if you have a 2004 LCD for display:
-    mylcd = I2C_LCD_driver.lcd()
-    mylcd.lcd_display_string(str(timeNow.strftime('%b %d at %H:%M')), 1)
-    mylcd.lcd_display_string("{:.1f} F / {}% rH".format(
-            displaytemp_f, displayhum), 2)
-    mylcd.lcd_display_string("Script: /dhtbrain.py", 3)
-    mylcd.lcd_display_string("Data: dhtdata.xlsx", 4)
-    '''
-
-    time.sleep(2.0)
+    wb.save('dhtdata.xlsx')'''
+    # close out the DHT properly. If you get an error that interrupts
+    # the program before this gets to run, you may need to restart power
+    # to the sensor for it to work properly.
     dhtDevice.exit()
     
-    # this checks if all 3 measurements failed. If so, the module runs again, up to 5 times.
-    # if it screws up more than 5 times in such a short period of time consider replacing sensor
-    trycounter = 0
+    # Check if all 3 measurements failed. If so, the module runs again,
+    # up to 5 times. If you get multiple failed readings, replace sensor.
+    # Finally, return the results.    
     if type(displayhum) == int or type(displayhum) == float:
-        pass
+        return results
     else:
         trycounter += 1
+        print(f'Reading failed, attempt {trycounter} initiated.')
         if trycounter < 5:
             dhtRun()
         else:
-            pass
+            return results
     
-    '''
-    #Uncomment all below if using LCD for a display:
-        
-    # Define GPIO to LCD mapping
-    LCD_RS = 7
-    LCD_E  = 8
-    LCD_D4 = 25
-    LCD_D5 = 24
-    LCD_D6 = 23
-    LCD_D7 = 18
-
-    # Define some device constants
-    LCD_WIDTH = 16    # Maximum characters per line
-    LCD_CHR = True
-    LCD_CMD = False
-
-    LCD_LINE_1 = 0x80 # LCD RAM address for the 1st line
-    LCD_LINE_2 = 0xC0 # LCD RAM address for the 2nd line
-
-    # Timing constants
-    E_PULSE = 0.0005
-    E_DELAY = 0.0005
-
-    def lcd_init():
-      # Initialise display
-      lcd_byte(0x33,LCD_CMD) # 110011 Initialise
-      lcd_byte(0x32,LCD_CMD) # 110010 Initialise
-      lcd_byte(0x06,LCD_CMD) # 000110 Cursor move direction
-      lcd_byte(0x0C,LCD_CMD) # 001100 Display On,Cursor Off, Blink Off
-      lcd_byte(0x28,LCD_CMD) # 101000 Data length, number of lines, font size
-      lcd_byte(0x01,LCD_CMD) # 000001 Clear display
-      time.sleep(E_DELAY)
-
-    def lcd_byte(bits, mode):
-      # Send byte to data pins
-      # bits = data
-      # mode = True  for character
-      #        False for command
-
-      GPIO.setmode(GPIO.BCM)
-      GPIO.setup(LCD_E, GPIO.OUT)  # E
-      GPIO.setup(LCD_RS, GPIO.OUT) # RS
-      GPIO.setup(LCD_D4, GPIO.OUT) # DB4
-      GPIO.setup(LCD_D5, GPIO.OUT) # DB5
-      GPIO.setup(LCD_D6, GPIO.OUT) # DB6
-      GPIO.setup(LCD_D7, GPIO.OUT) # DB7
-      GPIO.setup(14, GPIO.OUT)     # for the relay
-      GPIO.output(14, False)       # starts relay in off mode
-      GPIO.output(LCD_RS, mode) # RS
-      # High bits
-      GPIO.output(LCD_D4, False)
-      GPIO.output(LCD_D5, False)
-      GPIO.output(LCD_D6, False)
-      GPIO.output(LCD_D7, False)
-      if bits&0x10==0x10:
-        GPIO.output(LCD_D4, True)
-      if bits&0x20==0x20:
-        GPIO.output(LCD_D5, True)
-      if bits&0x40==0x40:
-        GPIO.output(LCD_D6, True)
-      if bits&0x80==0x80:
-        GPIO.output(LCD_D7, True)
-
-      # Toggle 'Enable' pin
-      lcd_toggle_enable()
-
-      # Low bits
-      GPIO.output(LCD_D4, False)
-      GPIO.output(LCD_D5, False)
-      GPIO.output(LCD_D6, False)
-      GPIO.output(LCD_D7, False)
-      if bits&0x01==0x01:
-        GPIO.output(LCD_D4, True)
-      if bits&0x02==0x02:
-        GPIO.output(LCD_D5, True)
-      if bits&0x04==0x04:
-        GPIO.output(LCD_D6, True)
-      if bits&0x08==0x08:
-        GPIO.output(LCD_D7, True)
-
-      # Toggle 'Enable' pin
-      lcd_toggle_enable()
-
-    def lcd_toggle_enable():
-      # Toggle enable
-      time.sleep(E_DELAY)
-      GPIO.output(LCD_E, True)
-      time.sleep(E_PULSE)
-      GPIO.output(LCD_E, False)
-      time.sleep(E_DELAY)
-
-    def lcd_string(message,line):
-      # Send string to display
-
-      message = message.ljust(LCD_WIDTH," ")
-
-      lcd_byte(line, LCD_CMD)
-
-      for i in range(LCD_WIDTH):
-        lcd_byte(ord(message[i]),LCD_CHR)
-
-
-    lcd_byte(0x01, LCD_CMD)
-    '''
-    '''
-    lcd_string(str(timeNow.strftime('%b %d at %H:%M')),LCD_LINE_1)
-    lcd_string("{:.1f} F / {}% rH".format(
-            displaytemp_f, displayhum),LCD_LINE_2)'''
-
-        
