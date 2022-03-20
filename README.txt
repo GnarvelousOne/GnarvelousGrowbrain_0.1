@@ -1,27 +1,6 @@
 ﻿The Gnarvelous Growbrain (GG) – open source farm automation to build the commons
 
 
-Prometheus Realized
-Xiqual Udinbak
-Aepalizage
-
-
-The Gnarvelous Growbrain performs a great heresy in today’s world – the merging of the consumer and producer into one.  An alchemical union of supposed opposites.
-
-The GG is an anti-political action that gives direct power to its user.  It is the hammer-idea, smashing the chains which prevent real reform of the human condition.  It can be thought of as a fertile soil upon which further growth can be realized.  By automating food production for as small a group as one, it chips away at any system, be it capitalist or socialist, which requires humanity to work endlessly on someone else’s terms for only a meager survival.  The GG, along with other as yet to be fully realized technologies, helps to roll away the stone and expands the potential for humans to exist on their own terms.
-
-While more and more companies provide very slick platforms for farm automation, all of them follow the current trend of Software As A Service.  They also seek to charge as much as they think they can, limiting access to individuals and catering more toward large scale well funded farm businesses rather than humanity as a whole.  Their intention is first to make money.  Thus the cycle is never broken.  
-
-This is completely antithetical to the values of the GG, and the idea of human autonomy. These companies want profits, and whether they know it or not their actions serve to maintain the power imbalance of producer and consumer.  This happens through the company maintaining possesion the user’s data on their servers, extracting monthly rents, and controlling the entire experience through proprietary closed software; the farmer must adapt to fit the companies’ idea of how to do things.  
-
-Overall, any decisions made by these companies must serve the main goal of remaining profitable and competitive in the marketplace.  By trying to exist and play ball within the currently collapsing capitalist catastrophe in it’s languishing lustful Lotharian late stage, these companies may not even survive for long.  Everything is now an overhyped start-up.  They can all be compromised by hackers or governments, and almost all require web access to work at all.  They often provide only the software, forcing the user to buy 3rd party hardware which adds yet another disadvantageous relationship of consumer supplicating itself to the producer.  
-
-Additionally, modern software is often dumbed down to the point of insult.  If we are to advance and survive as a species, the survivors need to level up their own understanding of technology.  We must stretch in order to reach new heights, the opposite of these mindless apps which encourage us to push the feeder bar for another treat.  The truth is we all can and should become programmers.  Not as you see in large tech companies where once again the individual finds themselves performing one simple task repeatedly like a cog in the machine, rather, we can be the entire company at once, in a way that directly benefits ourselves.  The future is now, old man.
-
-The Gnarvelous Growbrain is not a profit seeking venture.  It is direct action meant to feed the masses.  Protest groups and alternative lifestyle communes can provide food for themselves and their allies while living outside of the cash matrix as much as possible.  Local and underserved communities can provide for themselves, reducing carbon footprints and the demand for large-scale agriculture.  Individuals can get closer to living on their own terms, with less pressure to work a meaningless full time job which robs them of their time to fullfill their true wills, the great work.
-
-
-
 Cast of Characters:
 (files such as credentials, tokens, pickles from google are not included, you will have to generate them yourself)
 
@@ -29,7 +8,9 @@ dhtbrain.py – this is the main program which calls dht.py and quickstart.py.
 
 dht.py – takes temperature and humidity measurements, writes them to the logs, and sends alert emails if measurements are outside the desired range.
 
-dhtdata.xlsx – spreadsheet that collects the temp and hum data. Can be uploaded to Google Drive through quickstart.py.
+dhtdata.xlsx – spreadsheet that collects the temp and hum data. Can be uploaded to Google Drive through quickstart.py. * Currently not using due to very slow write times.
+
+dht.db - a SQLite database that replaces dhtdata.xlsx. Perfoms the same recording of temperature, humidity and timestamp.
 
 sprinkleron.py & sprinkleroff.py – examples of controlling the 5v DC relays to turn things on and off.  They are separated into and on and off scripts so that they may be scheduled through the crontab without having to use over complicated python scripts or by using time.sleep() to put the computer to sleep for extended periods.
 
