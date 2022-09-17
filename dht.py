@@ -25,7 +25,7 @@ def dhtRun():
     highhum = 70
     
     # email addresses to send alert warnings
-    recipientList = ['stephenmparvin@gmail.com']
+    recipientList = ['youremailaddress@email.com']
     
     # Initial the dht device, with data pin connected to:
     dhtDevice = adafruit_dht.DHT11(board.D4)
